@@ -20,3 +20,4 @@ coordinate system.
 15. `Tables` - creates second table including only positive numbers from the first entered table.
 16. `Pointers` - performs calculations based on points in the coordinate system.
 The program uses pointers to send data to functions.
+17. `Classes` - this program uses classes and inheritance (methods and objects). Was created to handle the cost of flights.
