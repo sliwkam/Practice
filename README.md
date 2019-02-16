@@ -21,3 +21,7 @@ coordinate system.
 16. `Pointers` - performs calculations based on points in the coordinate system.
 The program uses pointers to send data to functions.
 17. `Classes` - this program uses classes and inheritance (methods and objects). Was created to handle the cost of flights.
+18. `Console application` - program created in Embarcadero C++ Builder. It performs calculations related to the coordinate system.
+      - shows the number of entered points
+      - presents the maximum distance from the beginning of coordinate system
+      - counts points which are included in a circle with a radius equal to the entered value in the Edit field.
