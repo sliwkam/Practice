@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019.02.05 22:47:24.059,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.02.05 22:47:24.162,=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.02.06 00:28:34.071,F:\pulpit_27_01_2019\C C++\egzamin\zadanie3\Unit1.dfm=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019.02.06 00:28:34.071,F:\pulpit_27_01_2019\C C++\egzamin\zadanie3\Unit1.h=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019.02.06 00:28:34.071,F:\pulpit_27_01_2019\C C++\egzamin\zadanie3\Unit1.cpp=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.02.06 00:28:35.275,F:\pulpit_27_01_2019\C C++\egzamin\zadanie3\Project1PCH1.h=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.02.06 00:28:36.506,F:\pulpit_27_01_2019\C C++\egzamin\zadanie3\Project1.cbproj=C:\Users\Ka\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
